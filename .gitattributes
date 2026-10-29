@@ -1,0 +1,4 @@
+*.exe binary
+*.apk binary
+*.png binary
+latest.txt text eol=lf
