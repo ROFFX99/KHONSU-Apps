@@ -15,8 +15,8 @@
 
 | البرنامج | الكمبيوتر | الموبايل |
 | --- | --- | --- |
-| KHONSU Codes | [للكمبيوتر](codes/KHONSU-Codes-1.2.0.exe) | [للموبايل](codes/KHONSU-Codes-1.2.0.apk) |
-| KHONSU TV | [للكمبيوتر](tv/KHONSU-TV-1.2.0.exe) | [للموبايل](tv/KHONSU-TV-1.2.0.apk) |
+| KHONSU Codes | [للكمبيوتر](codes/KHONSU-Codes-1.3.0.exe) | [للموبايل](codes/KHONSU-Codes-1.2.0.apk) |
+| KHONSU TV | [للكمبيوتر](tv/KHONSU-TV-1.4.0.exe) | [للموبايل](tv/KHONSU-TV-1.2.0.apk) |
 
 افتح الرابط، وبعدين دوس على زرار التنزيل اللي فوق على اليمين.
 

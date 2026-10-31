@@ -1,8 +1,8 @@
 KHONSU-UPDATE 1
 app khonsu-codes
-version 1.2.0
-date 2026-10-29
-windows KHONSU-Codes-1.2.0.exe 1816064 6563df203791bc035850b7a77c9a65139f4d4a92041b8f25a151697acce72a99
+version 1.3.0
+date 2026-10-31
+windows KHONSU-Codes-1.3.0.exe 2075648 1bdbd7a6c05f31009a72d39ff523380883db1e3066524cb80fc2785e0680f7f7
 android KHONSU-Codes-1.2.0.apk 2256456 ec10c46b4fef657830f8e1ad504421f505067eb31623596f20b92a47bd75a021 10200
-note Check for updates in the menu, Export as QR codes, and many small fixes.
-sig ntpHrrmsIAP4RgCERJKN0nBBNrhFbWWCu2fuf0dCDLojsmSyP0/VqNQdkwZtDnqi0UWAYpOEIRC+zkVMdrsr0qKJmj4PHJC/MnOfRY33KMNcZlEAayLzisnjnBBapamn6YdRJnfg4+PgoGHR0Q4Z8Q23Z8kfhkhg5UGjx519JVy+IcZJqzOBkdJ7+p1OZdAnowO7w8X4yOKNU7r6TNonKpBHbexZHF1GLvoV5ef//n8eaqbDIHcw0DHmFEpN3wOzj85+V3+TSxfODBy9QaOgBHUVPm+gPO9W0Ih2p3KAsbia/rMHUWu1eT0E3mjHfAghw9HuydhJQEJyxGC0UbV0+a6S2dJtDtOFJ0G+5DZE6O7lGCYcCwPKIPvmWUsvtpbG43rIJiNO5R1zr1L8m9NhKQ8kWMom6vehUcKzXOS463NPnHu3NqPnJ4KndygME6VzexNkGBSwFi64uJZwFzH1713NQuX0pz9V/yCsdUxxKnvTVObN7Vsf3NPnSnCxt2Ks
+note Service icons, groups (and suggested ones), Steam and counter codes, automatic backups to a folder you pick, Ctrl+F search, the app in Arabic (ENG | AR), What's new, and Report a problem.
+sig Hpl+aZzivuY5SuyihEawfFrjw0E0rKL4W7KxaCst49gX/rFbKdxbKSk1L/zvnrUhkAvFK5SU3b3THVFyYfao9i5Ta/Sk6RqkHvixT/AsGle2I0xYpG9Ddwk3v4RcxjJ3k6YqtJXctG7CfB+nach49KjxP/gFIftvUi5NcI4DgfbDBd5DesghuFbYZ75L7QendVb//XnUtzMgusTz+KTc2P+NE1jUqd2mKFoCz+go5uEzdLKawczjV1ysUREt7kQMy1pcDZdAAmZ0bL+EO/xE35aL7uiHwOaLMw42ZlI/XgE32cPeW0/AVWAA+4v9hvo6280SUc2GVeM2Aaav//IW1kcOJWp8M81cCPAgQrsnN9y8arK0po6sBLcq4y9zY0nqXpEc62RSBCoWn4Vq2zJvG1K9oGU3V4+BRVlhL76/mDj0HS6QAmGKiimiBY+8hA+nCtVHFiYY+JAwLlMSCprsKiBj4+rh08aIHiPS0f/k/Ll6SkpxWwFl0QoZxF1SjItT
