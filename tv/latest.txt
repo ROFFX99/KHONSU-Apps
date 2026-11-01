@@ -1,8 +1,8 @@
 KHONSU-UPDATE 1
 app khonsu-tv
-version 1.4.0
-date 2026-10-31
-windows KHONSU-TV-1.4.0.exe 3005952 110e72440d03a52e35d60987b2cde33e8b5c94f6af75033ef974e322e2709ae4
-android KHONSU-TV-1.2.0.apk 2847160 de06080afbcdba7a935f38dea66234ed9cd4b8a9b680046d8dc55b2bfafca676 10200
-note Rows like Netflix, the app in Arabic (ENG | AR), channel numbers, a week's warning before your subscription ends, What's new, and Report a problem.
-sig C73X5VKnYxJf2or38ashlhoLmZ+gHD9/IKKaCY0AOuSVZpyfAGMPN1un/ziKtnjXTCo35DmHKTxHv3Yz8PFLLuHlmgjqrr2YAJomOvuXezc2edrl+TNONSw6yxhE/E3Z6Mt/ePaX5u4vkY3hIb0LhLX/qzYvVrosTaTeww+8NUOJhp9CbTxKPravHcwIJd/nSrEY6Xl4qkEtat7MMRandaHYv9Bbjls0JoZrnRLQbqhrRp5uPhxgculrSscj+mY585uW0iKEXSaVjNjh5HBNh9llhni7u9O0osWLRtu1rzs7WhT+vthg6OTJL+auBAQoAnoVMoxMikIq3hVyJOEsHUUYjjpqOXk9sFb4YQqnqCUmiynJjmhBXM9ixJpyG1btB7wSFXs4+gswDyBG7YO2N7zy1BeGZuunaSH4U7a4dkQXapPTkt1Nnl9y+EX53jMNNmEOJWfRvdI2kseXwH3htSoyHW7WtZ1BO2TrEYU27LhiInwFbryFUsJmseIhqsDL
+version 1.4.1
+date 2026-11-01
+windows KHONSU-TV-1.4.1.exe 3042304 6c66bedb786a2b49277a88b8d2af55b4cff867f8685b1ccd23679efe3f0005d9
+android KHONSU-TV-1.4.1.apk 3021928 c979bfc57bfaabc044a8a18674559a028a47b3c43db89e09008b107354d926ff 10401
+note On a TV: categories first, OK on a film to Play and Back to the same poster, every screen by remote. Since 1.2.0: rows like Netflix, the app in Arabic (ENG | AR), Samsung TVs, channel numbers, a week's warning before your subscription ends, What's new, and Report a problem.
+sig sSCV7SFmVPD34vx4gL8hN1rWCJR/x9xSpy6Degd3xLALVYZ8zs3FXYNB1nLy5BqI9VieNFJa/etnVeRbEPWThSyeaGsVGaw1ERymrw6BGbWEnCOrl8Vk4l30JkYIhzagKEQKts0xc0XssyoY/X8Dovu2DuHbR7Yc9mqPwdfFOtO5Qz768Vh/09PBldggo/ah4N7l1P2DEkzNVw0586hUtZYWTkFa6KdgFKCLC3x5Zf4r+92unuKSSLfkdzESsL0S2QOCCVcGINC1Ot1v6sQUp4I3CLyyEOYDMTvIeLVL0fCDwxLpL8XUHGTYtKNQl/cWi51sR3C9Nycn3WuMY9o1VUAyK0j/Fmjq+vCne2t9zx7cfxdgTSnD8dePn1rhRVuauk4ILOUiU8MlMGmdGHMcoVI4kIP/vUo096V/OPfPeOpgV06TZ5aIPXEEA1Kunz/1fIdAWxj4wQW4X3nwhPm48JeBP6UJKwVe0AzoP4gXuIAbEC10//fajuEdILr/Aaw0
