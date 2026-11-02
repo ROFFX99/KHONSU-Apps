@@ -1,8 +1,8 @@
 KHONSU-UPDATE 1
 app khonsu-tv
-version 1.6.1
+version 1.7.1
 date 2026-11-02
-windows KHONSU-TV-1.6.1.exe 3096576 511b7b1e083ca001afdd0da84c7ef5b1319a57f8cecc9da584e57de0e7f26228
-android KHONSU-TV-1.6.1.apk 3040470 d9be3e2ef86b981ee1c8b4dcc6cdd291a133a6e604c649221f8004c4d1ad1769 10601
-note A home page: big cards with an icon each for Live TV, Movies, Series, Favorites and Settings, and what you left part-way under them. Reset beside Continue watching clears it. Settings > Open on.
-sig K6h55mpgBJlYPSwPiFKE2FXLGuOwFCGT3Nure1Yh38m8dW/dQwCGRZSFHeIKAOJv1D2lQJZ981peqt/i1X24K2XwShJafNcpu/SNwSnEqk3YnQjNMRFHVm0PVNrAmzEE+Q0QJXxXDh2LjdnjywLJ6YxkKVngdcFyVi9NpdcbPxwFoy/2njh6R+Yjwt43N28pOiXNtOkhBLFtN9RKmTXIvGFyffNGwtBKCBYuZ2TivUUiM3wmdGROku/TC92zGxXjwoFrQo+pC9bnF/CboMe05ynHv0trb6PIedxWkJjCZJacKSXvNJsM6OiFuHv28jlqAF3F/lPKSBKxaTKvg7ovoMiRrxTWfIMoJTZir+iikr5XTn/UmOGo4C3detMcRQhdYUpXxgB/uMZruXu9lbYX+jxizJCWuXzhxhFZwTNJwaeY1B0E52bjsh7LkMQEFPL1B/bafGni654tr2q2Yg8p2TfdaLjbp12pEaD1POrLM8Gql5ULC451FyW5KmabRRuA
+windows KHONSU-TV-1.7.1.exe 3152896 9a2c42d3c2bf321189cb3b7434ab27b4cf737383fa4aafff6deac59db129d94a
+android KHONSU-TV-1.7.1.apk 3068652 ca4a06a7e8a9ac93ab24c9a8c830fd07d2322282e5a0edf794f2708226815b7a 10701
+note Downloads: press Download on a movie, an episode or a season, and watch it with no internet, inside the app. A new card on the home page. Donations, at its foot and in Settings.
+sig CSDQPosftCbB+XeVscgTdBcAbqcBJ7uAnPbnFY1dnqswoZZ1P4qpCZ1039GNKtUU3bG5Cr09V6oCCUJKr97BotGu1jwdqsw7/hDdlCtnXUdvTDJBKqJS3fPqFcpGiLjTdJbEjtlp7ZtE1ZX08eog8Z2XcxRHMcpg+8gnieVNyTpliroA7CE3r712366t/3xz+v+JU4oekGPkugpvnDGvhaaiUFAtdJSk4v6c5IXQYovBCXLk5dacRckG8GAGfoQkCAWfcINooHdJO3nsojuOJBKR3c3mKKhhMZ3wdD24Q9MRzMJj+5VoKgDaZdSZ15shY5Afp9lTq6xNgBuKh7sfkvZfGGcg+1cwBT29YjAuq209noz4j895ZQesCSu3V1rsckofsEl++jJJSGtfoGF2gwcK6a4dA6uyp/1YV/dT/y20C0FG5uZvP5ScZ+0SFUOqZk0n8HVBj09eyIdpEcyuCIqN7Er1HxRSxdp54iNCdnwkiAnTGkNJxluFgR1kUXJY
