@@ -1,8 +1,8 @@
 KHONSU-UPDATE 1
 app khonsu-tv
-version 1.4.1
-date 2026-11-01
-windows KHONSU-TV-1.4.1.exe 3042304 6c66bedb786a2b49277a88b8d2af55b4cff867f8685b1ccd23679efe3f0005d9
-android KHONSU-TV-1.4.1.apk 3021928 c979bfc57bfaabc044a8a18674559a028a47b3c43db89e09008b107354d926ff 10401
-note On a TV: categories first, OK on a film to Play and Back to the same poster, every screen by remote. Since 1.2.0: rows like Netflix, the app in Arabic (ENG | AR), Samsung TVs, channel numbers, a week's warning before your subscription ends, What's new, and Report a problem.
-sig sSCV7SFmVPD34vx4gL8hN1rWCJR/x9xSpy6Degd3xLALVYZ8zs3FXYNB1nLy5BqI9VieNFJa/etnVeRbEPWThSyeaGsVGaw1ERymrw6BGbWEnCOrl8Vk4l30JkYIhzagKEQKts0xc0XssyoY/X8Dovu2DuHbR7Yc9mqPwdfFOtO5Qz768Vh/09PBldggo/ah4N7l1P2DEkzNVw0586hUtZYWTkFa6KdgFKCLC3x5Zf4r+92unuKSSLfkdzESsL0S2QOCCVcGINC1Ot1v6sQUp4I3CLyyEOYDMTvIeLVL0fCDwxLpL8XUHGTYtKNQl/cWi51sR3C9Nycn3WuMY9o1VUAyK0j/Fmjq+vCne2t9zx7cfxdgTSnD8dePn1rhRVuauk4ILOUiU8MlMGmdGHMcoVI4kIP/vUo096V/OPfPeOpgV06TZ5aIPXEEA1Kunz/1fIdAWxj4wQW4X3nwhPm48JeBP6UJKwVe0AzoP4gXuIAbEC10//fajuEdILr/Aaw0
+version 1.5.1
+date 2026-11-02
+windows KHONSU-TV-1.5.1.exe 3067392 c00461bc15fd003f9fbdf191bae15e50a97c4d86e3d84fb3b137cac2eb059f79
+android KHONSU-TV-1.5.1.apk 3031433 1995142c69616003fddd30a3a71d833441579d28827b9ceb96c0fcdb45754f2a 10501
+note Add your IPTV from your phone with a QR: on a TV beside the fields, elsewhere From phone on the add card. Settings > Picture: the picture's shape and the seconds a film skips. Samsung TVs from 2021 too.
+sig CfrbYtlAEJZ8x9ypsq71AUWtBuE5jsQjSgkg/XcsPbn9xvui7pB1IJnLD4mMb2dMLZvK19QUItgo/Wf5SFL4+qtYb4pIgpFWQvRRN7GKOD8MxlHLeQCVaObXCnQUm3+pPhQOjN0G6mpJKDt7a41DJoIAJd4T85GmESTfRgQP9lqNGvktkqtKR1WN4as6dmO3RnoUFPPM/F+9wyOR9tNzH0G7T+UgKCWhVGBHprwkDTdZWTwItB4aFAAvsBo+K2oQq2sFqhhaFqEPwf3Qb6Oznbei/eTBVznkZdNcjIxUl2gzAPu0q5ZjBU7SaNRHyxAfESwTK0LUDALPDRLQ8b5GSUsgX5p99k8UvdYVAe7TJRZzgIzpSLnpshjqwyTJH0LpPFdOpU/SbmCkQE5d5/K1ftrZVUWelq9JmZUZf4EEQ3Hw3ui+gxPbMIAKrgUUxoKtrEwcJl18FObycqduQGmeqOrhRBQbvgkoor7eERvH4+/2XAglMbDk0ooUwsvIPGDn
