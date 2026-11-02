@@ -1,8 +1,8 @@
 KHONSU-UPDATE 1
 app khonsu-tv
-version 1.5.1
+version 1.6.1
 date 2026-11-02
-windows KHONSU-TV-1.5.1.exe 3067392 c00461bc15fd003f9fbdf191bae15e50a97c4d86e3d84fb3b137cac2eb059f79
-android KHONSU-TV-1.5.1.apk 3031433 1995142c69616003fddd30a3a71d833441579d28827b9ceb96c0fcdb45754f2a 10501
-note Add your IPTV from your phone with a QR: on a TV beside the fields, elsewhere From phone on the add card. Settings > Picture: the picture's shape and the seconds a film skips. Samsung TVs from 2021 too.
-sig CfrbYtlAEJZ8x9ypsq71AUWtBuE5jsQjSgkg/XcsPbn9xvui7pB1IJnLD4mMb2dMLZvK19QUItgo/Wf5SFL4+qtYb4pIgpFWQvRRN7GKOD8MxlHLeQCVaObXCnQUm3+pPhQOjN0G6mpJKDt7a41DJoIAJd4T85GmESTfRgQP9lqNGvktkqtKR1WN4as6dmO3RnoUFPPM/F+9wyOR9tNzH0G7T+UgKCWhVGBHprwkDTdZWTwItB4aFAAvsBo+K2oQq2sFqhhaFqEPwf3Qb6Oznbei/eTBVznkZdNcjIxUl2gzAPu0q5ZjBU7SaNRHyxAfESwTK0LUDALPDRLQ8b5GSUsgX5p99k8UvdYVAe7TJRZzgIzpSLnpshjqwyTJH0LpPFdOpU/SbmCkQE5d5/K1ftrZVUWelq9JmZUZf4EEQ3Hw3ui+gxPbMIAKrgUUxoKtrEwcJl18FObycqduQGmeqOrhRBQbvgkoor7eERvH4+/2XAglMbDk0ooUwsvIPGDn
+windows KHONSU-TV-1.6.1.exe 3096576 511b7b1e083ca001afdd0da84c7ef5b1319a57f8cecc9da584e57de0e7f26228
+android KHONSU-TV-1.6.1.apk 3040470 d9be3e2ef86b981ee1c8b4dcc6cdd291a133a6e604c649221f8004c4d1ad1769 10601
+note A home page: big cards with an icon each for Live TV, Movies, Series, Favorites and Settings, and what you left part-way under them. Reset beside Continue watching clears it. Settings > Open on.
+sig K6h55mpgBJlYPSwPiFKE2FXLGuOwFCGT3Nure1Yh38m8dW/dQwCGRZSFHeIKAOJv1D2lQJZ981peqt/i1X24K2XwShJafNcpu/SNwSnEqk3YnQjNMRFHVm0PVNrAmzEE+Q0QJXxXDh2LjdnjywLJ6YxkKVngdcFyVi9NpdcbPxwFoy/2njh6R+Yjwt43N28pOiXNtOkhBLFtN9RKmTXIvGFyffNGwtBKCBYuZ2TivUUiM3wmdGROku/TC92zGxXjwoFrQo+pC9bnF/CboMe05ynHv0trb6PIedxWkJjCZJacKSXvNJsM6OiFuHv28jlqAF3F/lPKSBKxaTKvg7ovoMiRrxTWfIMoJTZir+iikr5XTn/UmOGo4C3detMcRQhdYUpXxgB/uMZruXu9lbYX+jxizJCWuXzhxhFZwTNJwaeY1B0E52bjsh7LkMQEFPL1B/bafGni654tr2q2Yg8p2TfdaLjbp12pEaD1POrLM8Gql5ULC451FyW5KmabRRuA
