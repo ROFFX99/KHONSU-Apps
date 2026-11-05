@@ -1,8 +1,8 @@
 KHONSU-UPDATE 1
 app khonsu-tv
-version 1.7.1
-date 2026-11-02
-windows KHONSU-TV-1.7.1.exe 3152896 9a2c42d3c2bf321189cb3b7434ab27b4cf737383fa4aafff6deac59db129d94a
-android KHONSU-TV-1.7.1.apk 3068652 ca4a06a7e8a9ac93ab24c9a8c830fd07d2322282e5a0edf794f2708226815b7a 10701
-note Downloads: press Download on a movie, an episode or a season, and watch it with no internet, inside the app. A new card on the home page. Donations, at its foot and in Settings.
-sig CSDQPosftCbB+XeVscgTdBcAbqcBJ7uAnPbnFY1dnqswoZZ1P4qpCZ1039GNKtUU3bG5Cr09V6oCCUJKr97BotGu1jwdqsw7/hDdlCtnXUdvTDJBKqJS3fPqFcpGiLjTdJbEjtlp7ZtE1ZX08eog8Z2XcxRHMcpg+8gnieVNyTpliroA7CE3r712366t/3xz+v+JU4oekGPkugpvnDGvhaaiUFAtdJSk4v6c5IXQYovBCXLk5dacRckG8GAGfoQkCAWfcINooHdJO3nsojuOJBKR3c3mKKhhMZ3wdD24Q9MRzMJj+5VoKgDaZdSZ15shY5Afp9lTq6xNgBuKh7sfkvZfGGcg+1cwBT29YjAuq209noz4j895ZQesCSu3V1rsckofsEl++jJJSGtfoGF2gwcK6a4dA6uyp/1YV/dT/y20C0FG5uZvP5ScZ+0SFUOqZk0n8HVBj09eyIdpEcyuCIqN7Er1HxRSxdp54iNCdnwkiAnTGkNJxluFgR1kUXJY
+version 1.8.2
+date 2026-11-05
+windows KHONSU-TV-1.8.2.exe 3224576 a2d1638dfe26cce8d0aff121cedecc5d06f379bfe10cfcbc2b2c944bf7fb5b65
+android KHONSU-TV-1.8.2.apk 3089826 41a738155d949e312bd0fb03cbcb69c869ec2f4ca4eef2f6ef8363d25ba45204 10802
+note Multi Screen: up to four at once - a channel, a film, an episode or a download on each screen. A new card on the home page.
+sig cdxxr56iacEJZxXjUnapdo75qQr+w26+Sv0oqs9APf1PC0fzlMuvu59czyYadENRPLC6FHkPTcu4kfgIg5Ykio9OJ/K/+FfMf+c4XbRqfPGPE4TLIWUezSJNC6ykhSJRyTwqLZKKwAWAXGXLT8cq3PBlYiKVzV8SlkiAlLSzeegHqa9wuEvYHhtTXWNFkKQjbV9OtSsf0nYlaD0oOY+vt2woprZcAsCIjrDKVT2x8YVwrOdFGObnoKN8yXqNydAji1jiQBfT5n/VtGxC9wJ9HpWTHxOq+AFK2VLmYOAZb8LtmhumiXY1hCCSiKXd9Xuc8z3sSsAWVx+ZefzIdV/7GJvCy18Bvjo2aTmIHiRC6r9u+6Rz2YsCiWrxDaonPLDwUsza9yIauyuPEH5MjhxI6dMHY3wU0jA/AmsrUVqRJ0zzncUwJdP0HspSNl+02HWj7YBYDKgNThXO49HIzEfCOifhRMz/9VHw5ObMwLKSGEgSHsoU2+pVbqHWFkOViTQO
