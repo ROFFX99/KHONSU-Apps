@@ -1,8 +1,8 @@
 KHONSU-UPDATE 1
 app khonsu-tv
-version 1.8.2
-date 2026-11-05
-windows KHONSU-TV-1.8.2.exe 3224576 a2d1638dfe26cce8d0aff121cedecc5d06f379bfe10cfcbc2b2c944bf7fb5b65
-android KHONSU-TV-1.8.2.apk 3089826 41a738155d949e312bd0fb03cbcb69c869ec2f4ca4eef2f6ef8363d25ba45204 10802
-note Multi Screen: up to four at once - a channel, a film, an episode or a download on each screen. A new card on the home page.
-sig cdxxr56iacEJZxXjUnapdo75qQr+w26+Sv0oqs9APf1PC0fzlMuvu59czyYadENRPLC6FHkPTcu4kfgIg5Ykio9OJ/K/+FfMf+c4XbRqfPGPE4TLIWUezSJNC6ykhSJRyTwqLZKKwAWAXGXLT8cq3PBlYiKVzV8SlkiAlLSzeegHqa9wuEvYHhtTXWNFkKQjbV9OtSsf0nYlaD0oOY+vt2woprZcAsCIjrDKVT2x8YVwrOdFGObnoKN8yXqNydAji1jiQBfT5n/VtGxC9wJ9HpWTHxOq+AFK2VLmYOAZb8LtmhumiXY1hCCSiKXd9Xuc8z3sSsAWVx+ZefzIdV/7GJvCy18Bvjo2aTmIHiRC6r9u+6Rz2YsCiWrxDaonPLDwUsza9yIauyuPEH5MjhxI6dMHY3wU0jA/AmsrUVqRJ0zzncUwJdP0HspSNl+02HWj7YBYDKgNThXO49HIzEfCOifhRMz/9VHw5ObMwLKSGEgSHsoU2+pVbqHWFkOViTQO
+version 1.9.3
+date 2026-11-06
+windows KHONSU-TV-1.9.3.exe 3315200 e840db10c1c4c264ef86c7f84af58262a19c402c86a15748203b3805c48611ba
+android KHONSU-TV-1.9.3.apk 3122805 0b968c7f208d51f38805dde2d7cd172210dcaa14514a91f962a88b26e55fda45 10903
+note Skip intro listens for each show's intro and jumps to its end, once two episodes have taught it. Pause and the skips are in the middle of the picture; under them, the previous and next episode and Start from the beginning.
+sig NuRE5KNmjneO5FW006ocAWFzQqjB+Tsc03FOKToqK9vmPdi6bSxYucJ7xs37+hH2q9Zgaw+uhmeaIdN+plzsNLFjLmsSp7xD3jobL0kUaauVUvin4SZwwXXw2LeTzLG+3iflXGvtatacus/JQYGdhww5lL3kvQHv39CMoazmtwiNovCSgRCW5Uku+DzL3D8OlBx+QBo0aUQbvbhFrm+zOeziHkoghGpehCAn8lewUl2PbVffrM9ATo9RHlQcygzEeZj5NEr+TVkheUtdfwYHas2P6lq4hTkMGd8fbgW1RyJwxnuy7PzPc7HwlMJyKUiKKoobk/oPpmUZU1KSpDOSHEJDYh8Fqu6LcX+pS99dXLbjYCMUxpprp5qvgDyi2oFTLfEbiKQNxuVN+ou3FiigrjH6YyjmfQydcYxY7LU3P0cEnk5x8JInZ84eoQk2WdaCCQUjVZPeCJirWhyGzIjVu8w8owevEzvr77HXShcjHfViGjUc3iVoJ8Pp52QHaktz
