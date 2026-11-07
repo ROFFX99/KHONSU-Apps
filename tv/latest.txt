@@ -1,8 +1,8 @@
 KHONSU-UPDATE 1
 app khonsu-tv
-version 1.9.4
+version 1.10.0
 date 2026-11-07
-windows KHONSU-TV-1.9.4.exe 3380736 0ac7c52436a34a840472a1ee5fa4bb24d5c432785d1712315dc2ccccd7aa13de
-android KHONSU-TV-1.9.4.apk 3145782 c5cce51b3572b24ca1338e6bd1dabd61db2ffb09ee7d56492aa1859bc48bf427 10904
-note Skip intro on a Samsung TV: the TV listens for each show's intro itself, while your subscription has a connection to spare. Small fixes for the player's controls.
-sig IrdnKBaoLoeU/D0EwFfPGQkxuawIoJcI0/tRv85LGqeD8NFjaYkulAoGjtIIDFZYxOAKDVi3i9dzfWnszocx2JdNnTT49pgIsSbJorNrHNcPfhuGKjEcfhTsL7NRywlDZQkjMHJBHZrsqaIfTG5rNC7PDmNsxQr3l6JZoxxzU85rjoYrANZS+oeXRwCPNe4r+dCLSb+JNJpiWfnh80N/AOYbxY+gKNmt3TP00DoBA+YJm6R+iRcuSBjb8CC2IXsWQRkLIPS7GYG08ahbGIQ9LxIxwjjNNew00XpqJIHmCfA+Wl/ggvQiYQO9Qi5TSP4cJmSX6in5S4VA5mWa359X4FIZGFQ6TKhfT+n24gnId2xRtojRD14/E/16kc6mVsLu+oGF4W4niXPCVF3jFK0VtUch+upK4OdYotO9efzm3YdXq9b0824AxFgsdZ1WarS4W/a/IYFOFfwfllB4OIP9fmKl/hzzkKU1vvwpVbXuP50fpets/N8yS9gdtMTRgFTh
+windows KHONSU-TV-1.10.0.exe 3408896 7d6bc5bd9c59dcebe1a283b2742ebfe3da8aa4c42a7d4df020f7a4c2b933947d
+android KHONSU-TV-1.10.0.apk 3155724 5b37b67fc54a391691b9f9eebe3c181928fda021b76b184d82af576d6f5d14f7 11000
+note A new home page: a big picture from your subscription - what you left part-way, your favorites and the newest - with its story and Play, changing by itself. The sections are a row of small cards under it.
+sig iV4ubFaDSl7CwUFfnNEQGd+2qzElM2lip1CsCqNVkftBR+zTKrR1JEarnDktf+mudVANtHri8N1V10b48E1b5in7wUjhBqAGwiEVj7Im3ftc4gxk9BomgpvX07qJpBc3mIfzlJPBAD7405LSaYO8YFSgoXaOdQ5U+8OdN6mDvXDSjOQM7WYWDdvMFRgOMf/4mes751BbIjCDDgX4uREMdyFBInrd58HqTmzDc++SYYrEuQJmWi8KSV6yJ9jzsqOf7NN/GWG44etmb7UYrkcoiTmYGlu0CqSd36fRCBrvKxk/0N4RwMves8SO6+pW0UNIGQYyayWeL6XTs6CWmN8o57oO+ZvxdjPzXoBxGTYphVi+I4fsBJMio1hvNOEUCx5RHAuoDzFid+HCb1PUFfXZcZ/Tt1QI0CwQcynXw6rHAGWOrYvF5jAEbzZJ7K36FJoYs0FrOrHaNfbDnatVMZ9Bv0SksE/YjMMQ8LYyDh54e26TZ5zQI6JG87lnTOWOkxc1
