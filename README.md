@@ -13,7 +13,9 @@
 - **KHONSU Codes**: أكواد التحقق بخطوتين، زي جوجل أوثنتيكيتور. أكوادك مقفولة بباسورد، وبتفضل على جهازك بس.
 - **KHONSU TV**: مشغّل قنوات لاشتراك الآي بي تي في بتاعك.
 
-موقع KHONSU TV بيشرح كل ميزاته، ومنه تنزّل البرنامج للجهاز اللي إنت عليه على طول: [khonsu-tv.pages.dev](https://khonsu-tv.pages.dev/)
+موقع KHONSU TV بيشرح كل ميزاته، ومنه تنزّل البرنامج للجهاز اللي إنت عليه على طول.
+
+الموقع: [khonsu-tv.pages.dev](https://khonsu-tv.pages.dev/)
 
 ### التنزيل
 
@@ -48,7 +50,9 @@ Two apps by KHONSU, for Windows and Android:
 - **KHONSU Codes**: 2-step verification codes, like Google Authenticator. Your codes are locked with your password and stay on your device.
 - **KHONSU TV**: a player for your IPTV subscription.
 
-KHONSU TV has its own website, with every feature explained and the download for the device you are on: [khonsu-tv.pages.dev](https://khonsu-tv.pages.dev/)
+KHONSU TV has its own website, with every feature explained and the download for the device you are on.
+
+Website: [khonsu-tv.pages.dev](https://khonsu-tv.pages.dev/)
 
 **Download** from the table above (open the link, then the download button at the top right).
 Windows may say it protected your PC: press "More info", then "Run anyway"; the app then offers to install itself.
